@@ -1,4 +1,5 @@
 	Olá, meu nomê é David.
 	Eu trabalho Auto Posto Antunes como frentista.
 	Tenho 28 anos de idade.
+	Meu objetivo na Dodev é aprender para entrar no mercardo de trabalho de programção e começar minha carreira.  
 
